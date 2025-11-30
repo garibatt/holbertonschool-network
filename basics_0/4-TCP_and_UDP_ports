@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#commet for script
+netstat -lp 
