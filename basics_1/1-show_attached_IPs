@@ -1,3 +1,3 @@
-#!/usr/bin/env bash
-#comment lien
-hostname -I
+#!/usr/bin/env bash 
+#comment line
+ifconfig | grep -oP '(?<=inet\s)\d+(\.\d+){3}'
