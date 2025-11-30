@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#comment lien
+ip -4 a 
